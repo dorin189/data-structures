@@ -92,4 +92,5 @@ void main() {
 	fructeDinamic = citireVectorFructe(nrFructe);
 	afisareVectorFructe(fructeDinamic, nrFructe);
 	freeVector(fructeDinamic, nrFructe);
+
 }
